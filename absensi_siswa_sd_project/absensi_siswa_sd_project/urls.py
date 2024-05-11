@@ -1,5 +1,3 @@
-# urls.py (di dalam folder absensi)
-
 from django.urls import path, include
 from rest_framework import routers
 from absensi import views
